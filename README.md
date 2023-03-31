@@ -24,13 +24,19 @@
 <hr/>
 <h2> 🚩 GitHub Stats:</h2>
 <br/><br/>
-<div width="300">
-<img src="https://github-readme-stats.vercel.app/api?username=cafarli&show_icons=true&theme=tokyonight" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafarli&layout=compact&theme=vision-friendly-dark(https://github.com/cafarli/github-readme-stats)"/>
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cafarli&theme=dark&background=000000)](https://git.io/streak-stats) -->
-  </div>
-  
+<tbody align="center">
+  <tr colspan="2" align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cafarli&show_icons=true&theme=tokyonight" align="left"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafarli&layout=compact&theme=vision-friendly-dark(https://github.com/cafarli/github-readme-stats)"/>
+    </td>
+  </tr>
+  <tr colspan="2" align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=cafarli&theme=dark&background=000000(https://git.io/streak-stats)" />
+  </tr>
+</tbody>
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafarli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafarli&exclude_repo=github-readme-stats,cafarli.github.io)](https://github.com/cafarli/github-readme-stats) -->
