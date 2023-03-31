@@ -26,7 +26,7 @@
 <br/><br/>
 <div width="300">
 <img src="https://github-readme-stats.vercel.app/api?username=cafarli&show_icons=true&theme=tokyonight" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafarli&exclude_repo=github-readme-stats,cafarli.github.io)](https://github.com/cafarli/github-readme-stats" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafarli&layout=compact&theme=vision-friendly-dark(https://github.com/cafarli/github-readme-stats)"/>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cafarli&theme=dark&background=000000)](https://git.io/streak-stats) -->
   </div>
