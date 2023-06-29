@@ -7,7 +7,7 @@
 
 <h2>😊 About me </h2>
 <br/><br/>
-<p>Hi👋, I am a junior front-end developer 💻 from Azerbaijan.</p>
+<p>Hi👋, I am a junior developer 💻 from Azerbaijan.</p>
 <hr/>
 <h2>🎯 My Tools and Stack:</h2>
 <br/><br/>
